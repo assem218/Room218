@@ -186,3 +186,19 @@ footer{
 
     text-align: center;
 }
+
+
+.fun-gallery{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 50px;
+    gap:50px;
+    margin-left: 200px;
+
+
+}
+
+.fun{
+    width: 70vh;
+    height:auto;
+}
